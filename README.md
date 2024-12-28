@@ -1,6 +1,8 @@
-### Hi there 👋
 𝑫𝒂𝒕𝒆 𝒐𝒇 𝑩𝒊𝒓𝒕𝒉: 14 March 1994, 𝑾𝒉𝒂𝒕𝒔𝑨𝒑𝒑: +92 3030097913, 𝑬𝒎𝒂𝒊𝒍: sohaibahmad614@gmail.com 
-𝑷𝒓𝒊𝒎𝒂𝒓𝒚 𝑺𝒌𝒊𝒍𝒍𝒔: UI UX, Website Design Figma and Website Development, Software Engineering, Pixel Perfect, Responsive Design. 𝑺𝒐𝒇𝒕 𝑺𝒌𝒊𝒍𝒍𝒔: Communication (verbal and written), Teamwork, Problem-Solving, and Critical Thinking, Mentoring, Time Management, Innovation
+
+𝑷𝒓𝒊𝒎𝒂𝒓𝒚 𝑺𝒌𝒊𝒍𝒍𝒔: UI UX, Website Design Figma and Website Development, Software Engineering, Pixel Perfect, Responsive Design. 
+
+𝑺𝒐𝒇𝒕 𝑺𝒌𝒊𝒍𝒍𝒔: Communication (verbal and written), Teamwork, Problem-Solving, and Critical Thinking, Mentoring, Time Management, Innovation
 
 𝑳𝑬𝑨𝑫𝑬𝑹𝑺𝑯𝑰𝑷 𝑨𝑩𝑰𝑳𝑰𝑻𝑰𝑬𝑺:
 Team management 
