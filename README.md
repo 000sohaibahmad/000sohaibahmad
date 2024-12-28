@@ -1,7 +1,4 @@
 ### Hi there 👋
-
-<!--
-**000sohaibahmad/000sohaibahmad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 𝑫𝒂𝒕𝒆 𝒐𝒇 𝑩𝒊𝒓𝒕𝒉: 14 March 1994, 𝑾𝒉𝒂𝒕𝒔𝑨𝒑𝒑: +92 3030097913, 𝑬𝒎𝒂𝒊𝒍: sohaibahmad614@gmail.com 
 𝑷𝒓𝒊𝒎𝒂𝒓𝒚 𝑺𝒌𝒊𝒍𝒍𝒔: UI UX, Website Design Figma and Website Development, Software Engineering, Pixel Perfect, Responsive Design. 𝑺𝒐𝒇𝒕 𝑺𝒌𝒊𝒍𝒍𝒔: Communication (verbal and written), Teamwork, Problem-Solving, and Critical Thinking, Mentoring, Time Management, Innovation
 
@@ -51,4 +48,7 @@ Software Development and IT services
 High Quality
 
 𝑳𝑶𝑪𝑨𝑻𝑰𝑶𝑵𝑺: United States, Dubai, United Arab Emirates, Singapore, Shenzhen, China, Berlin, Helsinki, Finland, Stockholm, Sweden, Kuala Lumpur, Malaysia, Islamabad, Pakistan.
+<!--
+**000sohaibahmad/000sohaibahmad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 -->
